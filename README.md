@@ -19,6 +19,11 @@ Products:
 ![image](https://user-images.githubusercontent.com/111338450/184828357-914cfa04-3e28-461d-8a8b-b34c9120eeb2.png)
 
 
+Navbar:
+![image](https://user-images.githubusercontent.com/111338450/184829166-cd40b4f5-e7a4-48bb-b9db-034415e0adb5.png)
+
+
+
 Link to previous project : 
 (https://github.com/ManeshSridharan/Gamers-Den-e-commerce-website)
 
