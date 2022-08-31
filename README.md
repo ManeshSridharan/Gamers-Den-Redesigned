@@ -1,5 +1,6 @@
 # Gamers-Den Redesigned
 Basic Mini project of redesigning the interface of my web fundementals assignemnt
+
 Project was done using HTML, CSS, and JAVASCRIPT
 
 ## Changes from original project
